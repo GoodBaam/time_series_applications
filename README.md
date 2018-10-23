@@ -1,7 +1,8 @@
-# 제 이름은 성재, 이 레포를 맡고 있죠.
+# model 
 
-타임 시리즈는 제 일부와 같은 분석 방법이라 했죠.
-
-태어날 때부터 시계를 보고 데이터로 구축했죠.
-
-크흐
+1. LSTM model (lstm181020)
+ : predict after 10 days.
+ 10 inputs to 10 outputs.
+ input 1~10 time steps, 2~11 time steps, 3~12 time steps ...
+ output 11~20 time steps, 12~21 time steps, 13~22 time steps ...
+ 
