@@ -1,2 +1,7 @@
-# time_series_applications
-various time series applications to fine dust data.
+# 제 이름은 성재, 이 레포를 맡고 있죠.
+
+타임 시리즈는 제 일부와 같은 분석 방법이라 했죠.
+
+태어날 때부터 시계를 보고 데이터로 구축했죠.
+
+크흐
